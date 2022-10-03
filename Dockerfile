@@ -1,4 +1,4 @@
-FROM nvidia/cuda:11.4.1-cudnn8-devel-ubuntu18.04
+FROM nvidia/cuda:11.7.1-cudnn8-devel-ubuntu18.04
 
 # Update default packages
 RUN apt-get update
